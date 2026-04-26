@@ -400,6 +400,14 @@ header .desktop-nav-links {
     
 }
 
+.contact-content article input {
+    padding: 0.5rem;
+}
+
+.contact-content textarea {
+    padding: 0.5rem;
+}
+
 .contact button {
 
     padding: 0.5rem 1.0rem;
